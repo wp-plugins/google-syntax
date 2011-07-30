@@ -1,4 +1,4 @@
-=== google-syntax ===
+﻿=== google-syntax ===
 Contributors: princehaku
 Donate link: http://3haku.net
 Tags: google, syntax, code , prettify ,syntaxhighlighter
