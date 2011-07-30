@@ -2,7 +2,7 @@
 Contributors: princehaku
 Donate link: http://3haku.net
 Tags: google, syntax, code , prettify ,syntaxhighlighter
-Requires at least: 2.1
+Requires at least: 2.0
 Tested up to: 3.3
 Stable tag: 3.2.4
 
@@ -17,7 +17,7 @@ Related Links:
 * <a href="http://3haku.net">Plugin Homepage</a>
 * <a href="http://code.google.com/p/google-code-prettify/">Google Code Prettify</a>
 
-*This release is compatible with all WordPress versions since 2.1. If you are still using an older one, use <a href="http://downloads.wordpress.org/plugin/google-sitemap-generator.2.7.1.zip">version 2.7.1</a> instead.*
+*This release is compatible with all WordPress versions since 2.0. *
 
 == Installation ==
 
