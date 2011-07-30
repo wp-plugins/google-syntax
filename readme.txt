@@ -1,7 +1,7 @@
 ﻿=== google-syntax ===
 Contributors: princehaku
 Donate link: http://3haku.net
-Tags: google, syntax, code , prettify ,syntaxhighlighter
+Tags: google, syntax, code , prettify ,syntaxhighlighter ,代码高亮
 Requires at least: 2.0
 Tested up to: 3.3
 Stable tag: 0.1
