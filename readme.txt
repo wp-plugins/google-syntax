@@ -4,7 +4,7 @@ Donate link: http://3haku.net
 Tags: google, syntax, code , prettify ,syntaxhighlighter
 Requires at least: 2.0
 Tested up to: 3.3
-Stable tag: 3.2.4
+Stable tag: 0.1
 
 This is a code prettify plugin. the code higlighting effect will be seen directly in the mce editor.
 
