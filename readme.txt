@@ -10,7 +10,7 @@ This is a code prettify plugin. the code higlighting effect will be seen directl
 
 == Description ==
 
-This is a code prettify plugin using google-code-prettify. click the add-code media button to insert your code. the code higlighting effect will be seen directly in the mce editor.这是一个代码高亮插件  使用google code prettify 安装后在文章发布处点击插入代码按钮即可插入代码   代码高亮效果会直接在mce中预览可见
+This is a code prettify plugin using google-code-prettify. click the add-code media button to insert your code. the code higlighting effect will be seen directly in the mce editor.UbJGR;8v4zBk8_AA2e<~  J9SCgoogle code prettify 02W0:sTZNDUB7"2<4&5c;w2eHk4zBk04E%<4?I2eHk4zBk   4zBk8_AAP'9{;aV1=STZmceVPT$@@?I<{
 
 Related Links:
 
