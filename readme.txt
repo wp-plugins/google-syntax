@@ -1,4 +1,4 @@
-=== Google XML Sitemaps ===
+=== google-syntax ===
 Contributors: princehaku
 Donate link: http://3haku.net
 Tags: google, syntax, code , prettify ,syntaxhighlighter
@@ -6,7 +6,7 @@ Requires at least: 2.1
 Tested up to: 3.3
 Stable tag: 3.2.4
 
-This is a code prettify plugin using google-code-prettify. click the add-code media button to insert your code. the code higlighting effect will be seen directly in the mce editor.这是一个代码高亮插件  使用google code prettify 安装后在文章发布处点击插入代码按钮即可插入代码   代码高亮效果会直接在mce中预览可见
+This is a code prettify plugin. the code higlighting effect will be seen directly in the mce editor.
 
 == Description ==
 
